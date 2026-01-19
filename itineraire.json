@@ -1,0 +1,214 @@
+{
+  "pays": "Belgique",
+  "drapeau": "🇧🇪",
+  "symbole": "🧇",
+  "titre": "Escapade Relaxante en Wallonie Belge",
+  "budget_total": "Environ 1050 €/personne",
+  "duree": "4 jours",
+  "date_debut": "2026-02-17",
+  "date_fin": "2026-02-21",
+  "temps_vol": "4h30 (depuis Blanc, France, incluant le trajet vers CDG)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Bruxelles et Douceur Urbaine",
+      "legende": "Après un trajet depuis Blanc, France, et un vol direct, installez-vous confortablement à Bruxelles. La première journée est dédiée à une immersion douce dans l'ambiance de la capitale belge, avec une balade relaxante autour de la Grand-Place, classée au patrimoine mondial de l'UNESCO.",
+      "lieu": "Bruxelles",
+      "activites": [
+        "<strong>✈️</strong>: Voyage depuis Blanc, France, vers l'aéroport de Paris-CDG, puis vol direct vers Bruxelles. Prévoyez une marge confortable pour le trajet initial.",
+        "<strong>🛏️</strong>: Installation à l'hôtel. Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>🚶‍♂️</strong>: Balade au cœur de la Grand-Place. Admirez l'architecture baroque des maisons des corporations et l'Hôtel de Ville, un spectacle architectural apaisant."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Grand-Place, Bruxelles",
+          "categorie": "Place historique",
+          "coords": { "lat": 50.8467, "lng": 4.3525 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Trajet initial",
+          "texte": "Le trajet de Blanc, France, à Paris-CDG peut prendre 3 à 4 heures. Pensez à réserver votre transport (train ou voiture) à l'avance pour un départ serein."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛀",
+      "titre": "Détente Thermale et Charme Wallon",
+      "legende": "Quittez l'effervescence de la capitale pour une journée dédiée à la relaxation et à la découverte des paysages vallonnés de la Wallonie. La ville de Spa, réputée pour ses eaux thermales, offre une parenthèse de bien-être idéale pour recharger les batteries.",
+      "lieu": "Spa",
+      "activites": [
+        "<strong>🚗</strong>: Route vers Spa. Profitez du trajet d'environ 1h30 à travers la campagne wallonne, un paysage verdoyant même en hiver.",
+        "<strong>🛀</strong>: Relaxation aux Thermes de Spa. Plongez dans les eaux chaudes et profitez des installations modernes pour une expérience de détente profonde.",
+        "<strong>🚶‍♀️</strong>: Promenade dans le centre historique de Spa. Découvrez l'élégance de cette ville d'eau, ses parcs et ses bâtiments Belle Époque."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Thermes de Spa, Spa",
+          "categorie": "Centre thermal",
+          "coords": { "lat": 50.4939, "lng": 5.8679 }
+        },
+        {
+          "nom_recherche": "Centre historique de Spa, Spa",
+          "categorie": "Ville",
+          "coords": { "lat": 50.4917, "lng": 5.8650 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil bien-être",
+          "texte": "Réservez vos créneaux aux Thermes de Spa à l'avance, surtout en période hivernale, pour garantir votre accès et votre tranquillité."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Patrimoine et Saveurs de Chimay",
+      "legende": "Aujourd'hui, explorez la région de Chimay, non loin de Poirier, pour une immersion dans le patrimoine brassicole et historique de la Wallonie. Entre abbaye et château, la journée promet découvertes culturelles et dégustations authentiques.",
+      "lieu": "Chimay",
+      "activites": [
+        "<strong>🍺</strong>: Visite de l'Abbaye de Scourmont et de l'Espace Chimay. Découvrez les secrets de fabrication de la célèbre bière trappiste et du fromage de Chimay.",
+        "<strong>🏰</strong>: Exploration du Château de Chimay. Plongez dans l'histoire de cette demeure princière et de ses jardins, offrant une balade culturelle agréable.",
+        "<strong>🍽️</strong>: Dégustation de produits locaux. Profitez d'un repas dans un restaurant de la région pour savourer les spécialités locales, notamment les fromages et bières de Chimay."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Abbaye de Scourmont, Chimay",
+          "categorie": "Abbaye / Brasserie",
+          "coords": { "lat": 50.0350, "lng": 4.3400 }
+        },
+        {
+          "nom_recherche": "Château de Chimay, Chimay",
+          "categorie": "Château",
+          "coords": { "lat": 50.0490, "lng": 4.3000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🧀",
+          "titre": "Accords parfaits",
+          "texte": "Ne manquez pas de goûter les fromages de Chimay, ils sont spécialement conçus pour accompagner les bières trappistes de l'abbaye."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🖼️",
+      "titre": "Art Nouveau et Douceur Bruxelloise",
+      "legende": "Retour à Bruxelles pour une dernière journée sous le signe de l'art et de la flânerie. Découvrez l'élégance de l'Art Nouveau et profitez des charmes de la capitale avant votre départ. Une journée équilibrée entre culture et détente urbaine.",
+      "lieu": "Bruxelles",
+      "activites": [
+        "<strong>🏛️</strong>: Visite du Musée Horta. Imprégnez-vous de l'univers de Victor Horta, maître de l'Art Nouveau, dans sa maison et atelier magnifiquement conservés.",
+        "<strong>🌳</strong>: Promenade au Parc de Bruxelles. Profitez d'une balade paisible dans ce grand parc urbain, idéal pour une pause au cœur de la ville.",
+        "<strong>🛍️</strong>: Flânerie aux Galeries Royales Saint-Hubert. Admirez l'architecture des galeries marchandes et dégustez un dernier chocolat belge."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée Horta, Bruxelles",
+          "categorie": "Musée",
+          "coords": { "lat": 50.8273, "lng": 4.3592 }
+        },
+        {
+          "nom_recherche": "Parc de Bruxelles, Bruxelles",
+          "categorie": "Parc",
+          "coords": { "lat": 50.8450, "lng": 4.3620 }
+        },
+        {
+          "nom_recherche": "Galeries Royales Saint-Hubert, Bruxelles",
+          "categorie": "Galerie marchande",
+          "coords": { "lat": 50.8485, "lng": 4.3540 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🍫",
+          "titre": "Derniers plaisirs",
+          "texte": "Les Galeries Royales Saint-Hubert sont l'endroit parfait pour acheter des chocolats belges de dernière minute ou déguster une gaufre."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛫",
+      "titre": "Départ de Bruxelles",
+      "legende": "Après un dernier petit-déjeuner belge, il est temps de se diriger vers l'aéroport de Bruxelles pour votre vol retour. Emportez avec vous les souvenirs de cette escapade relaxante en Wallonie.",
+      "lieu": "Bruxelles",
+      "activites": [
+        "<strong>🥐</strong>: Petit-déjeuner à l'hôtel. Profitez d'un dernier moment de calme avant le départ.",
+        "<strong>🚗</strong>: Transfert vers l'aéroport de Bruxelles (BRU). Prévoyez suffisamment de temps pour le trajet et les formalités d'embarquement.",
+        "<strong>✈️</strong>: Vol retour vers Paris-CDG, puis trajet vers Blanc, France. Bon voyage !"
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Anticipation",
+          "texte": "L'aéroport de Bruxelles est bien desservi par les transports en commun. Vérifiez les horaires des trains ou bus pour un transfert sans stress."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 261 €/pers (A/R CDG-BRU)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 100 €/pers (trains, bus, essence si voiture de location)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 400 €/pers (4 jours, 3 repas/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 220 €/pers (4 nuits en hôtel 3*, base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 80 €/pers (Thermes de Spa, musées, visites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En février, les températures en Belgique varient entre 0 et 7°C. Prévoyez des vêtements chauds, imperméables et des chaussures confortables.", "symbole": "🧣" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Le réseau ferroviaire belge est dense et efficace pour se déplacer entre les grandes villes. Pour la Wallonie profonde, la voiture offre plus de flexibilité.", "symbole": "🚆" },
+    { "titre": "Les langues officielles sont le français, le néerlandais et l'allemand. Le français est prédominant en Wallonie.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Le Manneken Pis, la célèbre petite statue de Bruxelles, possède une garde-robe de plus de 1000 costumes, offerts par des dignitaires du monde entier. Il est habillé pour des occasions spéciales, des fêtes nationales ou pour soutenir des causes." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "La Belgique est le pays qui compte le plus grand nombre de châteaux par kilomètre carré au monde. On en dénombre plus de 3000, allant des forteresses médiévales aux élégantes demeures de campagne." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍟", 
+      "titre": "Les Frites Belges", 
+      "description": "Servies dans un cornet avec une large gamme de sauces, les frites belges sont croustillantes à l'extérieur et moelleuses à l'intérieur, souvent cuites deux fois." 
+    },
+    { 
+      "symbole": "🧇", 
+      "titre": "La Gaufre de Liège", 
+      "description": "Plus dense et caramélisée que sa cousine bruxelloise, la gaufre de Liège est reconnaissable à ses perles de sucre qui fondent à la cuisson, offrant une texture unique." 
+    },
+    { 
+      "symbole": "🍫", 
+      "titre": "Le Chocolat Belge", 
+      "description": "Réputé mondialement pour sa qualité et sa finesse, le chocolat belge se décline en pralines, truffes et tablettes, un véritable délice pour les papilles." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BRU/2026-02-17/2026-02-21", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Belgium", "url": "https://www.visitbelgium.com/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "SNCB (trains belges)", "url": "https://www.belgiantrain.be/fr", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Belgique", "url": "https://www.meteo.be/fr/belgique", "symbole": "🌤️" }
+  ]
+}
